@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Artist-Divya
 - 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning Java Spring Boot
-- 💞️ I’m looking to collaborate on any Java or Programming related projects
+- 🌱 I’m currently learning Java Spring Boot and PHP
+- 💞️ I’m looking to collaborate on any Java or PHP related projects
 - 📫 How to reach me divyarahul03@gmail.com
 
 <!---
